@@ -1,9 +1,9 @@
 
-## Kia ora, I’m Te Arihi (Tee) 👋🏽 
+## Kia ora, I’m Te Arihi aka Tee 👋🏽 
 
 I’m a people-focused junior web developer and Dev Academy Aotearoa graduate. I come from a background in customer service, digital content creation, and community engagement, and I enjoy combining tech and creativity to build thoughtful, user-friendly applications. 
 
-I learn best by building, collaborating with others, and reflecting on what worked (and what didn’t). I’m especially motivated by projects that support real people, small businesses, and community-driven work. 
+I learn best by building, collaborating with others, and reflecting on what worked (and what didn’t). I’m especially motivated by projects that support real people, small businesses, and community driven work. 
 
 ## 🛠 Tech Skills 
 **Frontend** 
@@ -51,11 +51,12 @@ An interactive web app that displays a star map with dynamic navigation and data
 - Continuing to build small, complete projects to reinforce learning 
 
 ## 🤍 About Me 
-I’m a reflective learner who values clear communication, collaboration, and continuous growth. I enjoy creating digital experiences that feel authentic, thoughtful, and easy for real people to use. Alongside developing my technical skills, I’m building confidence working on real-world projects and exploring opportunities to support small businesses and community-focused work through tech. 
+I’m a reflective learner who values clear communication, collaboration, and continuous growth. I enjoy creating digital experiences that feel authentic, thoughtful, and easy for real people to use. 
+
+Alongside developing my technical skills, I’m building confidence working on real world projects and exploring opportunities to support small businesses and community focused work through tech. 
 
 ## 🔗 Let’s Connect 
 - GitHub: https://github.com/TeArihi-Leaf
 - LinkedIn: https://www.linkedin.com/in/tearihi-leaf
-- CV: (add link when ready) 
 
 Thanks for stopping by 🌿
