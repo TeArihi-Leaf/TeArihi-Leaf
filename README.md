@@ -24,37 +24,70 @@ I learn best by building, collaborating with others, and reflecting on what work
 - Figma 
 - Trello 
 
-## 🌍 Projects 
-### 💬 Messaging App — Team Project 
-A real-time messaging application built in a small team during bootcamp. The app allows users to log in, manage friendships, and chat with others. 
+## 🌍 Projects
 
-**My contribution:** - Focused on the frontend, building the chat layout, message display, and friends list - Helped connect the frontend to backend endpoints so users could load friends and manage friendships - Used GitHub branches and pull requests to collaborate, review code, and merge features safely 
+### 💬 Messaging App — Team Project  
+A real-time messaging app built in a small team during bootcamp. Users can log in, manage friendships, and chat with others in real time.
 
-**What I learned:** - Communicating clearly within a team - Debugging collaboratively when things didn’t go to plan - Working iteratively and adapting under time constraints 
-🔗 GitHub: https://github.com/Karengo-2025/messaging-app 
+**My contribution:**
+- Worked mainly on the frontend, building the chat layout, message display, and friends list  
+- Helped wire the frontend to backend endpoints so users could load friends and manage friendships  
+- Used GitHub branches and pull requests to collaborate with my team and merge features safely  
 
-### 🌌 Matariki Star Map — Team Project 
-An interactive web app that displays a star map with dynamic navigation and data based on user interaction. 
+**What I learned:**
+- How important clear communication is when working in a team  
+- Debugging alongside others when things didn’t work the first time  
+- Working under time pressure and adjusting as we went  
 
-**My contribution:** - Built parts of the interface and worked on routing and navigation logic - Helped debug complex routing issues through testing, logging, and refining logic as a team 
+🔗 GitHub: https://github.com/Karengo-2025/messaging-app
 
-**What I learned:** - Breaking down complex problems step by step - Strengthening problem-solving skills through collective debugging - Gaining confidence working with dynamic data and navigation 
-🔗 GitHub: https://github.com/Karengo-2025/gitterbugs 
+---
 
-### ❌⭕ Tic-Tac-Toe — Individual Project A fully functional Tic-Tac-Toe game built using JavaScript, HTML, and CSS. 
+### 🌌 Matariki Star Map — Team Project  
+An interactive web app that displays a star map, with content changing based on user interaction and navigation.
 
-**What I worked on:** - Implemented win and lose conditions - Used DOM manipulation to handle game logic and user interaction - Ensured responsive layout and smooth gameplay 
+**My contribution:**
+- Helped build parts of the interface and worked on routing and navigation logic  
+- Spent time debugging tricky routing issues with the team using testing and console logging  
 
-**What I learned:** - Building logic step by step from start to finish - Gaining confidence working independently on a complete project 
-🔗 GitHub: https://github.com/TeArihi-Leaf/tic-tac-toe 
+**What I learned:**
+- How to break down confusing problems into smaller steps  
+- The value of debugging together instead of struggling alone  
+- Gained confidence working with dynamic data and navigation  
 
-### ☕ JavaScript Café — Individual Project
+🔗 GitHub: https://github.com/Karengo-2025/gitterbugs
 
-An interactive café simulation built using JavaScript, HTML, and CSS. The app allows users to fulfil customer orders through button interactions while managing stock and application logic.
+---
 
-**What I worked on:** - Implemented customer ordering logic using JavaScript - Used DOM manipulation to render café items and update the UI dynamically - Applied conditional logic to manage stock and order outcomes - Structured and organised code while following a guided code-along
+### ❌⭕ Tic-Tac-Toe — Individual Project  
+A fully functional Tic-Tac-Toe game built using JavaScript, HTML, and CSS.
 
-**What I learned:** - Strengthening JavaScript fundamentals and DOM manipulation - Translating real-world scenarios into application logic - Building confidence working through a complete individual challenge
+**What I worked on:**
+- Implemented win and lose conditions  
+- Used DOM manipulation to handle game logic and user interaction  
+- Made sure the game flowed smoothly and responded correctly to user input  
+
+**What I learned:**
+- Building logic step by step from start to finish  
+- Gaining confidence working independently on a complete project  
+
+🔗 GitHub: https://github.com/TeArihi-Leaf/tic-tac-toe
+
+---
+
+### ☕ JavaScript Café — Individual Project  
+An interactive café simulation built using JavaScript, HTML, and CSS. The app lets users fulfil customer orders through button interactions while managing stock and basic order logic.
+
+**What I worked on:**
+- Built the customer ordering logic using JavaScript  
+- Used DOM manipulation to render café items and update the page dynamically  
+- Used conditional logic to handle stock changes and order outcomes  
+- Followed a guided code-along while making sure my code stayed clean and readable  
+
+**What I learned:**
+- Getting more confident with JavaScript fundamentals and DOM manipulation  
+- Turning “real life” steps into code and logic  
+- Working through a full challenge without giving up when it got messy  
 
 🔗 GitHub: https://github.com/TeArihi-Leaf/javascript-cafe-project
 
