@@ -104,5 +104,6 @@ Alongside developing my technical skills, I’m building confidence working on r
 ## 🔗 Let’s Connect 
 - GitHub: https://github.com/TeArihi-Leaf
 - LinkedIn: https://www.linkedin.com/in/tearihi-leaf
+- CV: https://drive.google.com/file/d/1FLzFjs8zUkRdjosj3QZwJ7DzH8pvjAz3/view?usp=sharing
 
 Thanks for stopping by 🌿
