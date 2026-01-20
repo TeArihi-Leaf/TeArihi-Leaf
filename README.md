@@ -48,6 +48,16 @@ An interactive web app that displays a star map with dynamic navigation and data
 **What I learned:** - Building logic step by step from start to finish - Gaining confidence working independently on a complete project 
 🔗 GitHub: https://github.com/TeArihi-Leaf/tic-tac-toe 
 
+### ☕ JavaScript Café — Individual Project
+
+An interactive café simulation built using JavaScript, HTML, and CSS. The app allows users to fulfil customer orders through button interactions while managing stock and application logic.
+
+**What I worked on:** - Implemented customer ordering logic using JavaScript - Used DOM manipulation to render café items and update the UI dynamically - Applied conditional logic to manage stock and order outcomes - Structured and organised code while following a guided code-along
+
+**What I learned:** - Strengthening JavaScript fundamentals and DOM manipulation - Translating real-world scenarios into application logic - Building confidence working through a complete individual challenge
+
+🔗 GitHub: https://github.com/TeArihi-Leaf/javascript-cafe-project
+
 ## 🌱 Currently Learning & Growing
 - Strengthening my JavaScript and React fundamentals
 - Improving code readability and structure
