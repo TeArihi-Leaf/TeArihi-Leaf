@@ -37,7 +37,7 @@ An interactive web app that displays a star map with dynamic navigation and data
 
 **My contribution:** - Built parts of the interface and worked on routing and navigation logic - Helped debug complex routing issues through testing, logging, and refining logic as a team 
 
-**What I learned:** - Breaking down complex problems step by step - Strengthening problem-solving skills through collective debugging - Gaining confidence working with dynamic data and navigation 🔗 GitHub: https://github.com/Karengo-2025/gitterbugs --- 
+**What I learned:** - Breaking down complex problems step by step - Strengthening problem-solving skills through collective debugging - Gaining confidence working with dynamic data and navigation 🔗 GitHub: https://github.com/Karengo-2025/gitterbugs 
 
 ### ❌⭕ Tic-Tac-Toe — Individual Project A fully functional Tic-Tac-Toe game built using JavaScript, HTML, and CSS. 
 
